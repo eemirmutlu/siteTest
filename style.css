@@ -90,7 +90,7 @@ main a {
 
 a {
     text-align: center;
-    transition: transform 0.3s;
+    transition: transform 0.2s;
     /* Geçiş efekti süresi */
 }
 
